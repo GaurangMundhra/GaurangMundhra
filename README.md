@@ -58,8 +58,8 @@
 
 ### 📫 How to Reach Me
 
-- 📧 Email: `gaurang.mundhra52@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/gaurangmundhra](https://www.linkedin.com/in/gaurangmundhra)  
+- 📧 Email: `gaurangatwork29@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/gaurangmundhra](https://www.linkedin.com/in/gaurang-mundhra-585a82286/)  
 - 🧑‍💻 GitHub: [github.com/GaurangMundhra](https://github.com/GaurangMundhra)
 
 ---
