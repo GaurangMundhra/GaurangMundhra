@@ -1,70 +1,85 @@
-## Hi there 👋 I'm Gaurang Mundhra
+## 👋 Hi there, I'm Gaurang Mundhra
 
 🎓 B.Tech Student | Artificial Intelligence & Data Science  
 📍 Vishwakarma Institute of Technology, Pune  
-💻 Programmer • Developer • Tech Enthusiast
+💻 Programmer • Developer • Tech Enthusiast  
 
 ---
 
-### 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
 **Languages:**  
-- C | C++ | Python | Java | JavaScript  
+C • C++ • Python • Java • JavaScript • SQL • HTML • CSS  
 
 **Web Development:**  
-- HTML | CSS | React.js | Node.js | Express | Tailwind CSS  
-- REST APIs | jQuery  
+React • Next.js • Node.js • Express • Tailwind CSS • Appwrite • Firebase  
 
-**Database & Tools:**  
-- MySQL | SQLite | MongoDB  
-- Power BI | Tableau | Git & GitHub  
+**Tools & Technologies:**  
+MongoDB • MySQL • SQLite • Docker • Postman • Git & GitHub • Vercel  
 
-**Others:**  
-- DSA | OOP | DBMS | Operating Systems | Computer Networks  
-- Docker | Kafka | Socket Programming | Multithreading
+**Core Concepts:**  
+DSA • OOP • DBMS • Operating Systems • Computer Networks • System Design  
 
 ---
 
-### 🚀 Projects & Interests
+### 🚀 Notable Projects
 
-- 🔍 **AI-Powered Legal Assistant** – Summarizing and analyzing legal documents using NLP  
-- 📊 **Tableau to Power BI Migration Tool** – Automating dashboard transformation using GenAI  
-- 🕹️ **Pacman in Assembly Language** – Game developed in DOS emulator using 8086  
-- 📡 **IoT Systems** – NodeMCU-based food spoilage detection and crypto alert systems  
-- 🌐 **Multithreaded Proxy Web Server in C** – System-level project with LRU caching and semaphores  
-- 📈 **NBA Performance Prediction** – Data science project using machine learning  
-- 💼 **Code Bounty Platform** – Web tech project for a freelance-style coding marketplace
+🔍 **[LegalAI](https://github.com/GaurangMundhra/LegalAI)**  
+AI-powered legal assistant using GenAI and NLP  
+- Handled 1000+ queries with 92% accuracy  
+- Reduced backend latency by 35% with optimized APIs  
+- Responsive UI with 98% mobile compatibility
 
----
+🧤 **Athlete Performance Optimization Glove**  
+Smart glove using Arduino Nano Sense & sensors  
+- Designed in AutoCAD, extended battery by 20%  
+- Enabled real-time data tracking for athlete training
 
-### 🌱 Currently Learning
+🗂️ **[StoreIt – File Storage App](https://store-it-nine-flame.vercel.app/sign-in)**  
+Google Drive-like full-stack app using Next.js + Appwrite  
+- Features: Upload, delete, preview, folders  
+- Secure auth and 99% file availability on Vercel
 
-- Backend Development (Node.js + Express)  
-- System Design  
-- Advanced DSA and Algorithms  
-- AI Model Deployment & APIs  
+🌐 **[Multithreaded Proxy Web Server](https://github.com/GaurangMundhra/ProxyWebServer)**  
+Built in C with socket programming and LRU cache  
+- Supports 10 concurrent HTTP requests  
+- Achieved 95% request success via thread synchronization
 
----
+🧠 **Tableau to Power BI Dashboard Converter (In Progress)**  
+Using GenAI to automate visualization migration between platforms
 
-### 💬 Ask Me About
+🎮 **Pacman in Assembly**  
+Game built using 8086 assembly in DOS emulator  
+- Reinvented classic Pacman with low-level logic
 
-- Building full-stack web apps  
-- Automating dashboards and data insights  
-- System-level programming in C  
-- College-level tech project ideas  
-- Tips for tech presentations and hackathons
-
----
-
-### 📫 How to Reach Me
-
-- 📧 Email: `gaurangatwork29@gmail.com`  
-- 💼 LinkedIn: [linkedin.com/in/gaurangmundhra](https://www.linkedin.com/in/gaurang-mundhra-585a82286/)  
-- 🧑‍💻 GitHub: [github.com/GaurangMundhra](https://github.com/GaurangMundhra)
+📡 **Crypto & Food Spoilage Detection IoT Systems**  
+NodeMCU-based alert systems using MQTT and gas/moisture sensors
 
 ---
 
-### ⚡ Fun Fact
+### 🏆 Certifications & Achievements
 
-> I love converting complex tech ideas into simple, fun projects – from Pacman in Assembly to AI dashboard migration!
+- 🏢 JPMorgan & Goldman Sachs Software Engineering Virtual Experience (Forage)  
+- 🧠 Supervised ML: Regression & Classification – [Coursera](https://www.coursera.org/account/accomplishments/verify/48XXSAYDA0VK)  
+- 🔢 250+ Problems Solved on [LeetCode](https://leetcode.com/u/gaurangmundhra/)
 
+---
+
+### 🌱 Currently Exploring
+
+- Backend Architecture & System Design  
+- Model Deployment using FastAPI & Docker  
+- Advanced DSA & CP Challenges  
+
+---
+
+### 💬 Let's Connect
+
+📧 Email: `gaurangatwork29@gmail.com`  
+🔗 LinkedIn: [linkedin.com/in/gaurangmundhra](https://www.linkedin.com/in/gaurang-mundhra-585a82286/)  
+👨‍💻 GitHub: [@GaurangMundhra](https://github.com/GaurangMundhra)
+
+---
+
+### ⚡ Fun Fact  
+I enjoy breaking down complex systems – from building Pacman in Assembly to transforming Tableau dashboards with GenAI!
