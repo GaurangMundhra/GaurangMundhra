@@ -1,85 +1,92 @@
-## 👋 Hi there, I'm Gaurang Mundhra
+<h1 align="center">Hi there 👋, I'm Gaurang Mundhra</h1>
 
-🎓 B.Tech Student | Artificial Intelligence & Data Science  
-📍 Vishwakarma Institute of Technology, Pune  
-💻 Programmer • Developer • Tech Enthusiast  
+<p align="center">
+  🎓 B.Tech | AI & Data Science @ VIT Pune <br/>
+  💻 Programmer • Full Stack Developer • Tech Enthusiast
+</p>
 
----
-
-### 🛠️ Tech Stack
-
-**Languages:**  
-C • C++ • Python • Java • JavaScript • SQL • HTML • CSS  
-
-**Web Development:**  
-React • Next.js • Node.js • Express • Tailwind CSS • Appwrite • Firebase  
-
-**Tools & Technologies:**  
-MongoDB • MySQL • SQLite • Docker • Postman • Git & GitHub • Vercel  
-
-**Core Concepts:**  
-DSA • OOP • DBMS • Operating Systems • Computer Networks • System Design  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=GaurangMundhra&label=Profile%20views&color=0e75b6&style=flat" alt="GaurangMundhra" />
+</p>
 
 ---
 
-### 🚀 Notable Projects
+### 🛠️ Skills & Tech Stack
 
-🔍 **[LegalAI](https://github.com/GaurangMundhra/LegalAI)**  
-AI-powered legal assistant using GenAI and NLP  
-- Handled 1000+ queries with 92% accuracy  
-- Reduced backend latency by 35% with optimized APIs  
-- Responsive UI with 98% mobile compatibility
+#### 💻 Languages  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-🧤 **Athlete Performance Optimization Glove**  
-Smart glove using Arduino Nano Sense & sensors  
-- Designed in AutoCAD, extended battery by 20%  
-- Enabled real-time data tracking for athlete training
+#### 🌐 Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-🗂️ **[StoreIt – File Storage App](https://store-it-nine-flame.vercel.app/sign-in)**  
-Google Drive-like full-stack app using Next.js + Appwrite  
-- Features: Upload, delete, preview, folders  
-- Secure auth and 99% file availability on Vercel
-
-🌐 **[Multithreaded Proxy Web Server](https://github.com/GaurangMundhra/ProxyWebServer)**  
-Built in C with socket programming and LRU cache  
-- Supports 10 concurrent HTTP requests  
-- Achieved 95% request success via thread synchronization
-
-🧠 **Tableau to Power BI Dashboard Converter (In Progress)**  
-Using GenAI to automate visualization migration between platforms
-
-🎮 **Pacman in Assembly**  
-Game built using 8086 assembly in DOS emulator  
-- Reinvented classic Pacman with low-level logic
-
-📡 **Crypto & Food Spoilage Detection IoT Systems**  
-NodeMCU-based alert systems using MQTT and gas/moisture sensors
+#### 🛢️ Databases & Tools  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
-### 🏆 Certifications & Achievements
+### 🚀 Projects
 
-- 🏢 JPMorgan & Goldman Sachs Software Engineering Virtual Experience (Forage)  
-- 🧠 Supervised ML: Regression & Classification – [Coursera](https://www.coursera.org/account/accomplishments/verify/48XXSAYDA0VK)  
-- 🔢 250+ Problems Solved on [LeetCode](https://leetcode.com/u/gaurangmundhra/)
-
----
-
-### 🌱 Currently Exploring
-
-- Backend Architecture & System Design  
-- Model Deployment using FastAPI & Docker  
-- Advanced DSA & CP Challenges  
+- ⚖️ [**LegalAI**](https://github.com/GaurangMundhra/LegalAI) – AI-powered legal assistant using GenAI + NLP  
+- 🧤 Athlete Performance Glove – IoT glove with Arduino Nano and sensors  
+- 🗂️ [**StoreIt**](https://store-it-nine-flame.vercel.app/sign-in) – File-sharing platform like Google Drive  
+- 🌐 [**Multithreaded Proxy Server**](https://github.com/GaurangMundhra/ProxyWebServer) – Built with C, sockets, and LRU cache  
+- 📊 GenAI Dashboard Migrator – Convert Tableau → Power BI dashboards  
+- 🎮 Pacman in Assembly – Retro DOS game in 8086  
+- 📡 IoT Alert Systems – Crypto and food spoilage detection (NodeMCU)
 
 ---
 
-### 💬 Let's Connect
+### 📈 GitHub Stats
 
-📧 Email: `gaurangatwork29@gmail.com`  
-🔗 LinkedIn: [linkedin.com/in/gaurangmundhra](https://www.linkedin.com/in/gaurang-mundhra-585a82286/)  
-👨‍💻 GitHub: [@GaurangMundhra](https://github.com/GaurangMundhra)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GaurangMundhra&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=GaurangMundhra&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurangMundhra&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
-### ⚡ Fun Fact  
-I enjoy breaking down complex systems – from building Pacman in Assembly to transforming Tableau dashboards with GenAI!
+### 🏆 Certifications
+
+- JPMorgan & Goldman Sachs Virtual Internship (Forage)  
+- [Supervised ML (Coursera)](https://www.coursera.org/account/accomplishments/verify/48XXSAYDA0VK)  
+- Solved 250+ problems on [LeetCode](https://leetcode.com/u/gaurangmundhra/)
+
+---
+
+### 🌱 Currently Learning
+
+- 🔧 Backend Architecture & APIs  
+- 🧠 Advanced DSA & Algorithms  
+- 🚀 AI Model Deployment with Docker & FastAPI  
+
+---
+
+### 📫 Reach Out
+
+- 📧 [gaurangatwork29@gmail.com](mailto:gaurangatwork29@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gaurang-mundhra-585a82286/)  
+- 🧑‍💻 [GitHub](https://github.com/GaurangMundhra)
+
+---
+
+### ⚡ Fun Fact
+
+> I love converting complex problems into fun, working projects — from Pacman in Assembly to dashboard automation using GenAI!
