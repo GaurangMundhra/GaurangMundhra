@@ -5,7 +5,6 @@
   <a href="https://medium.com/@gaurangatwork29" target="_blank">
   <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
 </a>
-
   <a href="https://leetcode.com/u/gaurangmundhra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 </p>
 
