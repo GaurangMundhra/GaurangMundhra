@@ -66,7 +66,7 @@ A deep dive into complex projects spanning LLM research, high-performance comput
 
 ## 🏆 Certifications & Achievements
 
-- **Solved 250+ DSA Problems** on [LeetCode](https://leetcode.com/u/gaurangmundhra/).
+- **Solved 300+ DSA Problems** on [LeetCode](https://leetcode.com/u/gaurangmundhra/).
 - Completed Virtual Internships with **JPMorgan Chase & Co.** and **Goldman Sachs**.
 - **Supervised ML** Specialization (Coursera).
 
