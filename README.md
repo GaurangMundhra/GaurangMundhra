@@ -83,11 +83,11 @@ A deep dive into complex projects spanning LLM research, high-performance comput
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaurangMundhra&show_icons=true&theme=radical&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GaurangMundhra&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=86400" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=GaurangMundhra&theme=radical&hide_border=true&ring=61DAFB&fire=61DAFB" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GaurangMundhra&theme=radical&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurangMundhra&layout=compact&theme=radical&hide_border=true&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaurangMundhra&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
