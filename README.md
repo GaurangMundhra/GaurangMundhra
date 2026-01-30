@@ -97,6 +97,29 @@ A deep dive into complex projects spanning LLM research, high-performance comput
 
 ---
 
+## 🧭 Roadmap | What I’m Building Next
+
+```mermaid
+timeline
+  title Near-Term Engineering Focus
+
+  section Backend and Microservices
+    Spring Boot Microservices (Auth, Kafka, JPA, Resilience) : in-progress
+    Production-grade API Design and Observability : next
+
+  section AI Integration
+    AI-powered Services (RAG, NLP, Agents) with Java and Python : in-progress
+    AI-first Backend Architectures (LLM + Microservices) : next
+
+  section System Design
+    Scalable Distributed Systems (Caching, Messaging, Database Design) : ongoing
+
+  section Open Source and Projects
+    Real-world Microservice Projects with AI Features : ongoing
+    Meaningful Open-source Contributions : continuous
+
+---
+
 ## 📈 GitHub Activity
 
 <p align="center">
