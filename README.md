@@ -30,7 +30,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="700" />
+  <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="700" />
 </p>
 
 
