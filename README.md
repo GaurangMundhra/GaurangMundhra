@@ -1,122 +1,273 @@
-<!-- ASCII Banner -->
 <div align="center">
-<pre>
- ██████╗  █████╗ ██╗   ██╗██████╗  █████╗ ███╗   ██╗ ██████╗ 
-██╔════╝ ██╔══██╗██║   ██║██╔══██╗██╔══██╗████╗  ██║██╔════╝ 
-██║  ███╗███████║██║   ██║██████╔╝███████║██╔██╗ ██║██║  ███╗
-██║   ██║██╔══██║██║   ██║██╔══██╗██╔══██║██║╚██╗██║██║   ██║
-╚██████╔╝██║  ██║╚██████╔╝██║  ██║██║  ██║██║ ╚████║╚██████╔╝
- ╚═════╝ ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-</pre>
-</div>
 
-<h1 align="center">Hi there 👋, I'm Gaurang Mundhra</h1>
+<!-- Animated banner with gradient wave effect -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Gaurang%20Mundhra&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20Systems%20Programmer&descAlignY=60&descAlign=50&descSize=18&descColor=e94560"/>
+
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=1000&color=E94560&center=true&vCenter=true&multiline=false&width=900&lines=Hey+there%2C+I%27m+Gaurang+%F0%9F%91%8B;B.Tech+AI+%26+Data+Science+%40+VIT+Pune+%F0%9F%8E%93;Building+from+Proxy+Servers+to+LLM+Research+%F0%9F%A7%A0;Exploring+Systems%2C+AI+%26+IoT+%E2%9A%99%EF%B8%8F;Turning+complex+problems+into+working+projects+%E2%9C%A8" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gaurang-mundhra-585a82286/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://medium.com/@gaurangatwork29" target="_blank">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium">
-</a>
+  <a href="https://medium.com/@gaurangatwork29" target="_blank"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
   <a href="https://leetcode.com/u/gaurangmundhra/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
+  <a href="mailto:gaurangatwork29@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GaurangMundhra&label=Profile%20views&color=0e75b6&style=flat" alt="GaurangMundhra" />
-</p>
+</div>
 
-<h3 align="center">
-  🎓 B.Tech | AI & Data Science @ VIT Pune <br/>
-  💻 Full Stack Developer • AI/ML Engineer • Systems Programmer
-</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/9igGG6KxpY0eY0Sr5u/giphy.gif" width="700" />
-</p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## 🌌 About Me
 
-A versatile skill set spanning **AI/ML**, **Modern Full-Stack Development (TypeScript/Next.js)**, and **Core C/C++ Systems**.
+```typescript
+const gaurang = {
+  name: "Gaurang Mundhra",
+  role: "AI/ML Engineer & Full Stack Developer",
+  education: "B.Tech, AI & Data Science @ VIT Pune 🎓",
+  location: "India 🇮🇳",
+  currentFocus: ["LLM Finetuning", "RAG Pipelines", "System Design"],
+  languages: ["Python", "C/C++", "TypeScript", "Java"],
+  interests: ["Ethical AI", "Systems Programming", "IoT"],
+  funFact: "I've built everything from a Proxy Server in C to Pacman in 8086 Assembly",
+  motto: "Turn complex problems into fun, working projects 🚀"
+};
+```
+
+<br/>
+
+<table>
+  <tr>
+    <td>🔭</td><td>Currently building <strong>LLM-powered & full-stack applications</strong></td>
+  </tr>
+  <tr>
+    <td>🌱</td><td>Deep diving into <strong>LLM Finetuning, RAG & AI Model Deployment</strong></td>
+  </tr>
+  <tr>
+    <td>👯</td><td>Open to collaborating on <strong>AI/ML, systems & full-stack projects</strong></td>
+  </tr>
+  <tr>
+    <td>💬</td><td>Ask me about <strong>LLMs, C/C++ Systems, React/Next.js, IoT</strong></td>
+  </tr>
+  <tr>
+    <td>🏆</td><td>Solved <strong>300+ DSA problems</strong> and interned virtually at <strong>JPMorgan Chase & Goldman Sachs</strong></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🧰 Tech Arsenal
+
+<div align="center">
 
 ### 🧠 Data Science & Generative AI
-
-| Focus Area | Technologies |
-| :--- | :--- |
-| **LLMs & GenAI** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) |
-| **ML/Deep Learning** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| **Deployment** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) |
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn&theme=dark" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+</p>
 
 ### 🌐 Full-Stack Development
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind&theme=dark" />
+</p>
 
-| Focus Area | Technologies |
-| :--- | :--- |
-| **Frontend** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) |
+### 🗄️ Databases & Deployment
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel&theme=dark" />
+</p>
 
 ### 💻 Core, Systems & IoT
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino&theme=dark" />
+</p>
 
-| Focus Area | Technologies |
-| :--- | :--- |
-| **Core CS** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) |
-| **Systems** | **Sockets**, **Multithreading**, LRU Cache, 8086 Assembly |
-| **IoT** | **Arduino Nano**, **NodeMCU**, Sensors |
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 📊 GitHub Intelligence
+
+<div align="center">
+
+### 🔢 Stats Overview
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GaurangMundhra&theme=radical" width="100%" alt="Profile Details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GaurangMundhra&theme=radical" height="180" alt="Repos per Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GaurangMundhra&theme=radical" height="180" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GaurangMundhra&theme=radical" height="180" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GaurangMundhra&theme=radical&utcOffset=5.5" height="180" alt="Productive Time" />
+
+<br/><br/>
+
+### 🔥 Streak & Activity
+
+<img src="https://streak-stats.demolab.com?user=GaurangMundhra&theme=radical&hide_border=true&border_radius=12&ring=E94560&fire=FF6B6B&currStreakLabel=E94560" alt="GitHub Streak" width="60%" />
+
+<br/><br/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GaurangMundhra&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="GitHub stats" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GaurangMundhra&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+<br/><br/>
+
+### 🌊 Contribution Activity
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GaurangMundhra&theme=redical&hide_border=true&area=true)](https://github.com/GaurangMundhra)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 🧠 Competitive Programming
+
+<div align="center">
+
+<a href="https://leetcode.com/u/gaurangmundhra/">
+  <img src="https://leetcard.jacoblin.cool/gaurangmundhra?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=16" alt="LeetCode Stats" />
+</a>
+
+<br/>
+
+<p><strong>300+ DSA problems solved</strong> 🏆</p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🚀 Key Projects
 
-A deep dive into complex projects spanning LLM research, high-performance computing, and hardware integration.
+<table>
+  <tr>
+    <td align="center" width="60">🌐</td>
+    <td>
+      <strong><a href="https://github.com/GaurangMundhra/ProxyWebServer">Multithreaded Proxy Server</a></strong><br/>
+      A high-performance <strong>Web Proxy Server</strong> built from scratch in <strong>C</strong>, handling concurrent requests via multithreading with an <strong>LRU Cache</strong> for reduced latency.<br/>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Sockets-grey?style=flat-square"/> <img src="https://img.shields.io/badge/LRU_Cache-grey?style=flat-square"/> <img src="https://img.shields.io/badge/Multithreading-grey?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🧠</td>
+    <td>
+      <strong><a href="https://github.com/GaurangMundhra/Cultural_Biasness_Of_LLMs">Cultural Biasness of LLMs</a></strong><br/>
+      Research analyzing and mitigating <strong>cultural and ethical biases</strong> in Large Language Models — Ethical AI in practice.<br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/LLMs-grey?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-grey?style=flat-square"/> <img src="https://img.shields.io/badge/Ethical_AI-grey?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🧤</td>
+    <td>
+      <strong>Athlete Performance Glove</strong><br/>
+      An <strong>IoT wearable</strong> using Arduino Nano and sensors for real-time athlete performance tracking, plus Crypto/Food Spoilage IoT alert systems using NodeMCU.<br/>
+      <img src="https://img.shields.io/badge/IoT-grey?style=flat-square"/> <img src="https://img.shields.io/badge/Arduino_Nano-00979D?style=flat-square&logo=arduino&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white"/> <img src="https://img.shields.io/badge/NodeMCU-grey?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🗂️</td>
+    <td>
+      <strong><a href="https://store-it-nine-flame.vercel.app/sign-in">StoreIt</a></strong><br/>
+      A secure, scalable <strong>full-stack file-sharing platform</strong> built on the MERN stack with Next.js for modern architecture and performance.<br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🖥️</td>
+    <td>
+      <strong><a href="https://github.com/GaurangMundhra/synapsemap-frontend">synapsemap-frontend</a></strong><br/>
+      A modern, type-safe frontend for a web platform, demonstrating advanced TypeScript & component architecture.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">🎮</td>
+    <td>
+      <strong>Pacman in Assembly</strong><br/>
+      A retro implementation of classic Pacman for DOS, written entirely in <strong>8086 Assembly</strong>.<br/>
+      <img src="https://img.shields.io/badge/8086_Assembly-grey?style=flat-square"/> <img src="https://img.shields.io/badge/Low--Level_Programming-grey?style=flat-square"/>
+    </td>
+  </tr>
+</table>
 
-| Icon | Project Name | Description | Tech Stack Highlights |
-| :---: | :--- | :--- | :--- |
-| 🌐 | **[Multithreaded Proxy Server](https://github.com/GaurangMundhra/ProxyWebServer)** | A high-performance **Web Proxy Server** built from scratch in **C**. It efficiently handles concurrent requests using **multithreading** and incorporates an **LRU Cache** for reduced network latency. | C, Sockets, LRU Cache, Multithreading |
-| 🧠 | **[Cultural\_Biasness\_Of\_LLMs](https://github.com/GaurangMundhra/Cultural_Biasness_Of_LLMs)** | Research focused on analyzing and mitigating **cultural and ethical biases** embedded within Large Language Models (LLMs), showcasing expertise in **Ethical AI** and evaluation. | Python, LLMs, NLP, Ethical AI |
-| 🧤 | **Athlete Performance Glove** | An **IoT wearable device** using **Arduino Nano** and sensors to capture, process, and transmit real-time athlete performance data. Includes other **IoT Alert Systems** (Crypto/Food Spoilage) using NodeMCU. | IoT, Arduino Nano, C++, Sensors, NodeMCU |
-| 🗂️ | **[StoreIt](https://store-it-nine-flame.vercel.app/sign-in)** | A secure, scalable **full-stack file-sharing platform** built on the MERN Stack with **Next.js** for modern architecture and high performance. | Next.js, Node.js/Express, MongoDB |
-| 🖥️ | **[synapsemap-frontend](https://github.com/GaurangMundhra/synapsemap-frontend)** | The **modern, type-safe frontend application** for a web platform, demonstrating proficiency in TypeScript and advanced component architecture. | TypeScript, React, Frontend Architecture |
-| 🎮 | **Pacman in Assembly** | A retro implementation of the classic Pacman game for DOS, written entirely in **8086 Assembly** language. | 8086 Assembly, Low-Level Programming |
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🏆 Certifications & Achievements
 
-- **Solved 300+ DSA Problems** on [LeetCode](https://leetcode.com/u/gaurangmundhra/).
-- Completed Virtual Internships with **JPMorgan Chase & Co.** and **Goldman Sachs**.
-- **Supervised ML** Specialization (Coursera).
+<div align="center">
+
+<table>
+  <tr>
+    <td>🎯</td><td>Solved <strong>300+ DSA Problems</strong> on <a href="https://leetcode.com/u/gaurangmundhra/">LeetCode</a></td>
+  </tr>
+  <tr>
+    <td>🏦</td><td>Completed Virtual Internships with <strong>JPMorgan Chase & Co.</strong> and <strong>Goldman Sachs</strong></td>
+  </tr>
+  <tr>
+    <td>📜</td><td><strong>Supervised ML</strong> Specialization (Coursera)</td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
 ## 🌱 Currently Learning & Exploring
 
-- **Advanced System Design** patterns for scalable distributed systems.
-- Deep dive into **LLM Finetuning** and **RAG** implementations.
-- Mastering **AI Model Deployment** workflows with Docker and FastAPI.
+- 🏗️ **Advanced System Design** patterns for scalable distributed systems
+- 🔍 Deep dive into **LLM Finetuning** and **RAG** implementations
+- 🐳 Mastering **AI Model Deployment** workflows with Docker and FastAPI
 
---- 
-## 📈 GitHub Activity
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
+---
+
+## 💡 A Random Dev Thought
+
+<div align="center">
+
+<a href="https://github.com/GaurangMundhra">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&cache_seconds=1" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+<div align="center">
+
+<!-- Visitor counter -->
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GaurangMundhra&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <br/>
-<img src="https://streak-stats.demolab.com?user=GaurangMundhra&theme=radical&hide_border=true" />
-  <br/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GaurangMundhra&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://komarev.com/ghpvc/?username=GaurangMundhra&label=Profile%20Views&color=e94560&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
+<!-- Animated footer wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&animation=fadeIn"/>
 
-### 📫 Connect with Me
+<br/>
 
-- 📧 **Email**: [gaurangatwork29@gmail.com](mailto:gaurangatwork29@gmail.com)
-- 🔗 **LinkedIn**: [Gaurang Mundhra](https://www.linkedin.com/in/gaurang-mundhra-585a82286/)
-- 🧑‍💻 **GitHub**: [GaurangMundhra](https://github.com/GaurangMundhra)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=1000&color=E94560&center=true&vCenter=true&width=700&lines=%F0%9F%9A%80+From+Proxy+Servers+to+LLMs+%E2%80%94+building+it+all;Thanks+for+visiting+%E2%80%94+let%27s+build+something+great!" alt="Footer typing" />
 
----
+<br/>
 
-### ⚡ Fun Fact
+⭐ **If you like my work, consider giving my repos a star — it means the world!** ⭐
 
-> I love converting complex problems into fun, working projects — from building a **Proxy Server in C** to researching **ethical LLM biases** and creating **IoT alert systems**!
-
+</div>
