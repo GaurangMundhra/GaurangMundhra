@@ -28,8 +28,9 @@ const gaurang = {
   name: "Gaurang Mundhra",
   role: "AI/ML Engineer & Full Stack Developer",
   education: "B.Tech, AI & Data Science @ VIT Pune 🎓",
+  experience: "Technology Summer Intern @ Barclays 🏦",
   location: "India 🇮🇳",
-  currentFocus: ["LLM Finetuning", "RAG Pipelines", "System Design"],
+  currentFocus: ["LLM Finetuning", "RAG Pipelines", "Event-Driven Microservices"],
   languages: ["Python", "C/C++", "TypeScript", "Java"],
   interests: ["Ethical AI", "Systems Programming", "IoT"],
   funFact: "I've built everything from a Proxy Server in C to Pacman in 8086 Assembly",
@@ -40,6 +41,9 @@ const gaurang = {
 <br/>
 
 <table>
+  <tr>
+    <td>🏦</td><td>Interned as a <strong>Technology Summer Intern @ Barclays</strong>, building Java/Spring Boot components for event-driven microservices</td>
+  </tr>
   <tr>
     <td>🔭</td><td>Currently building <strong>LLM-powered & full-stack applications</strong></td>
   </tr>
@@ -54,6 +58,29 @@ const gaurang = {
   </tr>
   <tr>
     <td>🏆</td><td>Solved <strong>300+ DSA problems</strong> and interned virtually at <strong>JPMorgan Chase & Goldman Sachs</strong></td>
+  </tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+---
+
+## 💼 Work Experience
+
+<table>
+  <tr>
+    <td align="center" width="70">🏦</td>
+    <td>
+      <strong>Technology Summer Intern — Barclays</strong> <br/>
+      <sub>Customer Digital and Data | BFA · Pune, India · Jun 2026 – Jul 2026 · On-site</sub>
+      <br/><br/>
+      <ul>
+        <li>Developed reusable <strong>Java</strong> and <strong>Spring Boot</strong> components for an <strong>event-driven microservice ecosystem</strong>, including Kafka integration utilities and backend application features</li>
+        <li>Built an automated component testing framework using <strong>Kafka, Testcontainers, WireMock,</strong> and <strong>Karate</strong> to validate asynchronous microservice workflows in production-like environments</li>
+        <li>Enhanced <strong>API observability, CI/CD workflows,</strong> and engineering documentation by implementing reusable testing patterns, improving configuration management, and documenting architecture & troubleshooting best practices</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/> <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white"/> <img src="https://img.shields.io/badge/Testcontainers-grey?style=flat-square"/> <img src="https://img.shields.io/badge/WireMock-grey?style=flat-square"/> <img src="https://img.shields.io/badge/Karate-grey?style=flat-square"/> <img src="https://img.shields.io/badge/CI%2FCD-grey?style=flat-square"/> <img src="https://img.shields.io/badge/Microservices-grey?style=flat-square"/>
+    </td>
   </tr>
 </table>
 
@@ -77,9 +104,18 @@ const gaurang = {
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,express,tailwind&theme=dark" />
 </p>
 
+### ☕ Backend & Event-Driven Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,kafka&theme=dark" />
+  <img src="https://img.shields.io/badge/Testcontainers-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/WireMock-grey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Karate-grey?style=for-the-badge" />
+</p>
+<p><em>Microservices · Event-driven architecture · API observability</em></p>
+
 ### 🗄️ Databases & Deployment
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,docker,vercel,githubactions&theme=dark" />
 </p>
 
 ### 💻 Core, Systems & IoT
