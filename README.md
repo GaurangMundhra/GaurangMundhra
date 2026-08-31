@@ -57,7 +57,7 @@ const gaurang = {
     <td>💬</td><td>Ask me about <strong>LLMs, C/C++ Systems, React/Next.js, IoT</strong></td>
   </tr>
   <tr>
-    <td>🏆</td><td>Solved <strong>300+ DSA problems</strong> and interned virtually at <strong>JPMorgan Chase & Goldman Sachs</strong></td>
+    <td>🏆</td><td>Solved <strong>400+ DSA problems</strong> and interned virtually at <strong>JPMorgan Chase & Goldman Sachs</strong></td>
   </tr>
 </table>
 
