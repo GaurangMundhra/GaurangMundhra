@@ -177,7 +177,7 @@ const gaurang = {
 
 <br/>
 
-<p><strong>300+ DSA problems solved</strong> 🏆</p>
+<p><strong>500+ DSA problems solved</strong> 🏆</p>
 
 </div>
 
